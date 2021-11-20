@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A056427827491DEF00150F03 /* SprografByHudsonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A056427727491DEF00150F03 /* SprografByHudsonApp.swift */; };
+		A056427827491DEF00150F03 /* SpirografByHudsonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A056427727491DEF00150F03 /* SpirografByHudsonApp.swift */; };
 		A056427A27491DEF00150F03 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A056427927491DEF00150F03 /* ContentView.swift */; };
 		A056427C27491DF000150F03 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A056427B27491DF000150F03 /* Assets.xcassets */; };
 		A056427F27491DF000150F03 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A056427E27491DF000150F03 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A056427427491DEF00150F03 /* SprografByHudson.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SprografByHudson.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A056427727491DEF00150F03 /* SprografByHudsonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SprografByHudsonApp.swift; sourceTree = "<group>"; };
+		A056427427491DEF00150F03 /* SpirografByHudson.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpirografByHudson.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A056427727491DEF00150F03 /* SpirografByHudsonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpirografByHudsonApp.swift; sourceTree = "<group>"; };
 		A056427927491DEF00150F03 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A056427B27491DF000150F03 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A056427E27491DF000150F03 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -35,7 +35,7 @@
 		A056426B27491DEE00150F03 = {
 			isa = PBXGroup;
 			children = (
-				A056427627491DEF00150F03 /* SprografByHudson */,
+				A056427627491DEF00150F03 /* SpirografByHudson */,
 				A056427527491DEF00150F03 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -43,20 +43,20 @@
 		A056427527491DEF00150F03 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A056427427491DEF00150F03 /* SprografByHudson.app */,
+				A056427427491DEF00150F03 /* SpirografByHudson.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A056427627491DEF00150F03 /* SprografByHudson */ = {
+		A056427627491DEF00150F03 /* SpirografByHudson */ = {
 			isa = PBXGroup;
 			children = (
-				A056427727491DEF00150F03 /* SprografByHudsonApp.swift */,
+				A056427727491DEF00150F03 /* SpirografByHudsonApp.swift */,
 				A056427927491DEF00150F03 /* ContentView.swift */,
 				A056427B27491DF000150F03 /* Assets.xcassets */,
 				A056427D27491DF000150F03 /* Preview Content */,
 			);
-			path = SprografByHudson;
+			path = SpirografByHudson;
 			sourceTree = "<group>";
 		};
 		A056427D27491DF000150F03 /* Preview Content */ = {
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A056427327491DEF00150F03 /* SprografByHudson */ = {
+		A056427327491DEF00150F03 /* SpirografByHudson */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A056428227491DF000150F03 /* Build configuration list for PBXNativeTarget "SprografByHudson" */;
+			buildConfigurationList = A056428227491DF000150F03 /* Build configuration list for PBXNativeTarget "SpirografByHudson" */;
 			buildPhases = (
 				A056427027491DEF00150F03 /* Sources */,
 				A056427127491DEF00150F03 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = SprografByHudson;
+			name = SpirografByHudson;
 			productName = SprografByHudson;
-			productReference = A056427427491DEF00150F03 /* SprografByHudson.app */;
+			productReference = A056427427491DEF00150F03 /* SpirografByHudson.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A056426F27491DEE00150F03 /* Build configuration list for PBXProject "SprografByHudson" */;
+			buildConfigurationList = A056426F27491DEE00150F03 /* Build configuration list for PBXProject "SpirografByHudson" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A056427327491DEF00150F03 /* SprografByHudson */,
+				A056427327491DEF00150F03 /* SpirografByHudson */,
 			);
 		};
 /* End PBXProject section */
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A056427A27491DEF00150F03 /* ContentView.swift in Sources */,
-				A056427827491DEF00150F03 /* SprografByHudsonApp.swift in Sources */,
+				A056427827491DEF00150F03 /* SpirografByHudsonApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SprografByHudson/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SpirografByHudson/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -281,8 +281,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Vahtee-Boo.SprografByHudson";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vahtee-Boo.SpirografByHudson";
+				PRODUCT_NAME = SpirografByHudson;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -296,7 +296,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SprografByHudson/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"SpirografByHudson/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -309,8 +309,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Vahtee-Boo.SprografByHudson";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "Vahtee-Boo.SpirografByHudson";
+				PRODUCT_NAME = SpirografByHudson;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -320,7 +320,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A056426F27491DEE00150F03 /* Build configuration list for PBXProject "SprografByHudson" */ = {
+		A056426F27491DEE00150F03 /* Build configuration list for PBXProject "SpirografByHudson" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A056428027491DF000150F03 /* Debug */,
@@ -329,7 +329,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A056428227491DF000150F03 /* Build configuration list for PBXNativeTarget "SprografByHudson" */ = {
+		A056428227491DF000150F03 /* Build configuration list for PBXNativeTarget "SpirografByHudson" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A056428327491DF000150F03 /* Debug */,

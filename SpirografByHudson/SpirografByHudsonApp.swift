@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SprografByHudsonApp: App {
+struct SpirografByHudsonApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
